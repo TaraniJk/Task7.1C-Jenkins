@@ -1,4 +1,4 @@
-// automatic trigger Test
+
 pipeline {
     agent any
 
